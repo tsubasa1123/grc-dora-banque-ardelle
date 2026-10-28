@@ -4,7 +4,7 @@
 
 **English summary** — End-to-end DORA compliance audit of a fictional French retail bank, run in CISO Assistant (self-hosted, Docker). 260 requirements assessed, 29 major non-conformities identified, 11-measure remediation plan costed at €320k, and a two-page board-level memo.
 
-⚠️ La Banque Ardelle est une **entreprise fictive**, créée pour un exercice de montée en compétence. Les exigences, la méthode et les livrables sont ceux d'une mission réelle ; les constats, prestataires et montants sont inventés.
+⚠️ La Banque Ardelle est une **entreprise fictive**. Les exigences, la méthode et les livrables sont ceux d'une mission réelle ; les constats, prestataires et montants sont inventés.
 
 ---
 
@@ -79,7 +79,3 @@ Sur 260 exigences : 64 non applicables (obligations des autorités ou d'autres t
 - Audit fondé sur des constats d'entretiens fictifs ; aucun test technique.
 - Règlement seul, sans les normes techniques déléguées (RTS et ITS).
 - Prochaine étape : analyse de risques EBIOS RM complète (ateliers 1 à 5) sur le même périmètre.
-
-## Auteur
-
-**Kennedy** — Master 2 Cybersécurité & Data Science (ISFA, Université Lyon 1), PMP, environ 6 ans en gestion de projets IT et cybersécurité.
